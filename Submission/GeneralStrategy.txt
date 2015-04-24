@@ -1,0 +1,7 @@
+STEPS for SUBMISSION
+
+1. Clean up 
+2. Visualize and investigate
+3. Create Features
+4. Apply machine learning algorithms
+5. Create evaluation methods
